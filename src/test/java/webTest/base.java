@@ -30,8 +30,6 @@ public class base {
         if (webDriver != null) {
             webDriver.quit();
         }
-        if (mobileDriver != null) {
-            mobileDriver.quit();
-        }
+
     }
 }

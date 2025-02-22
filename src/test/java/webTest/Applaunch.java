@@ -43,3 +43,29 @@ public class Applaunch {
         }
     }
 }
+
+
+//package webTest;
+//
+//import io.appium.java_client.android.AndroidDriver;
+//import org.openqa.selenium.remote.DesiredCapabilities;
+//import java.net.URL;
+//
+//public class AppLaunch {
+//    public static void main(String[] args) {
+//        try {
+//            DesiredCapabilities caps = new DesiredCapabilities();
+//            caps.setCapability("platformName", "Android");
+//            caps.setCapability("deviceName", "emulator-5554");
+//            caps.setCapability("automationName", "UiAutomator2");
+//            caps.setCapability("app", "/Users/b0226036/Desktop/app-default-debug.apk");
+//
+//            AndroidDriver driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), caps);
+//            Thread.sleep(5000);
+//            driver.quit();
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//    }
+//}
+

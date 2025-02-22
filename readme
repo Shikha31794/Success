@@ -1,0 +1,105 @@
+Java Libraries --->collection of precompiled classes and methods made to resuse functionalities
+These are pre-installed in the Java Development Kit (JDK) and provide essential functionality:
+
+java.lang → Core language features (e.g., String, Math, System).
+java.util → Utility classes (e.g., List, Map, Collections).
+java.io → Input/Output operations (e.g., FileReader, BufferedReader).
+java.nio → Non-blocking I/O for efficient file handling.
+java.net → Networking (e.g., HTTP connections, sockets).
+java.sql → Database interaction (e.g., Connection, Statement).
+
+Java libraries are usually packaged as:
+
+JAR (Java Archive) files → .jar files that contain compiled .class files.
+Dependencies in Maven/Gradle → Managed via pom.xml (Maven) or build.gradle (Gradle).
+
+
+
+For third party Library	Purpose we need to add dependincies from pom
+Selenium	---Web automation testing
+RestAssured	---API testing
+TestNG/JUnit---	Unit testing framework
+Log4j/SLF4J	---Logging framework
+Hibernate	---Object-Relational Mapping (ORM) for databases
+Jackson/Gson---	JSON parsing
+Spring Boot	---Web applications and microservices framework
+Apache POI	---Excel file handling
+
+
+
+import io.restassured.RestAssured; it provides static methods to define base URIs, send requests, and validate responses.
+import io.restassured.http.ContentType;  It helps specify the format of request and response data. xml json
+import io.restassured.response.Response; Allows extracting status codes, headers, body, etc.
+import org.testng.Assert; Assert class from TestNG framework is used for assertions in test cases.
+import org.testng.annotations.Test;
+import static io.restassured.RestAssured.*; Imports all static methods from RestAssured, so we can use them without RestAssured. prefix.
+import static org.hamcrest.Matchers.*; Imports all static matcher functions from Hamcrest, like notNullValue(), equalTo(), etc.
+Used for response validation.
+
+
+
+
+       ┌─────────────────────────────────────────────┐
+       │                Test Execution               │
+       └─────────────────────────────────────────────┘
+                            │
+                            ▼
+       ┌─────────────────────────────────────────────┐
+       │           TestNG Test Method (`@Test`)      │
+       │            → `testLogin()`                  │
+       └─────────────────────────────────────────────┘
+                            │
+                            ▼
+       ┌─────────────────────────────────────────────┐
+       │         RestAssured Request Setup           │
+       │   → `given()`                               │
+       │   → `.baseUri("https://reqres.in/api")`     │
+       │   → `.contentType("application/json")`      │
+       │   → `.body("{email, password}")`           │
+       └─────────────────────────────────────────────┘
+                            │
+                            ▼
+       ┌─────────────────────────────────────────────┐
+       │         Sending API Request                 │
+       │   → `.when().post("/login")`                │
+       └─────────────────────────────────────────────┘
+                            │
+                            ▼
+       ┌─────────────────────────────────────────────┐
+       │         API Response Received               │
+       │   → Status Code                             │
+       │   → Response Body (Token)                   │
+       └─────────────────────────────────────────────┘
+                            │
+                            ▼
+       ┌─────────────────────────────────────────────┐
+       │         Validation using `then()`           │
+       │   → `.statusCode(200)`                      │
+       │   → `.body("token", notNullValue())`        │
+       └─────────────────────────────────────────────┘
+                            │
+                            ▼
+       ┌─────────────────────────────────────────────┐
+       │         Assertion and Test Pass/Fail        │
+       │   ✅ If status code = 200 & token is present│
+       │      → Test PASSES                          │
+       │   ❌ Else → Test FAILS                      │
+       └─────────────────────────────────────────────┘
+Method	Purpose	Class in RestAssured
+given()	                                      Starts request setup	                     RestAssured
+baseUri(String uri)	                          Sets the base URL	                         RequestSpecification
+contentType(String type)	                  Sets the request format (JSON, XML, etc.)	 RequestSpecification
+body(String jsonBody)	                      Adds request payload	                     RequestSpecification
+when()	                                      Signals request execution	                 RequestSender
+post(String endpoint)	                      Sends a POST request	                     RequestSender
+then()	                                      Begins response validation	             ResponseSpecification
+statusCode(int expectedStatusCode) 	          Checks expected HTTP status code	         ValidatableResponse
+body(String key, Matcher<?> matcher)          Validates the response body	             ValidatableResponse
+
+
+
+//Android Test Case
+AndroidDriver Class
+DesiredCapabilities Class
+Thread.sleep()
+URL Class
