@@ -1,0 +1,30 @@
+2025-02-22 20:14:00 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-22 20:14:01 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-22 20:14:01 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-22 20:14:02 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-22 20:14:06 [main] INFO  webTest.Browserlaunch - Navigated to Google.
+2025-02-22 20:14:06 [main] INFO  webTest.Browserlaunch - Browser window maximized.
+2025-02-22 20:14:07 [main] INFO  webTest.Browserlaunch - Entered 'Selenium WebDriver' in search box.
+2025-02-22 20:14:07 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-22 20:14:10 [main] INFO  webTest.Browserlaunch - Page Title: https://www.google.com/search?q=Selenium+WebDriver&sca_esv=d5be2ea9143ccd98&source=hp&ei=s-K5Z-HkFL7j2roPg_358Ao&iflsig=ACkRmUkAAAAAZ7nww-KDZiR9o1qlN7XL95sZsfG_qlC5&sei=t-K5Z5LaDY6O2roP0M73qAM
+2025-02-22 20:14:10 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-22 20:14:58 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-22 20:14:58 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-22 20:14:58 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-22 20:14:59 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-22 20:15:03 [main] INFO  webTest.Browserlaunch - Navigated to Google.
+2025-02-22 20:15:03 [main] INFO  webTest.Browserlaunch - Browser window maximized.
+2025-02-22 20:15:03 [main] INFO  webTest.Browserlaunch - Entered 'Selenium WebDriver' in search box.
+2025-02-22 20:15:03 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-22 20:15:06 [main] INFO  webTest.Browserlaunch - Page Title: https://www.google.com/search?q=Selenium+WebDriver&sca_esv=d5be2ea9143ccd98&source=hp&ei=6-K5Z4GNOOvV1sQPgrXj6Q0&iflsig=ACkRmUkAAAAAZ7nw-7OKdTF_NZN7EV_6MZqfa_04HZe9&sei=7-K5Z6qqFpDj2roPooTi4AM
+2025-02-22 20:15:06 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-22 20:15:37 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-22 20:15:37 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-22 20:15:37 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-22 20:15:38 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-22 20:15:40 [main] INFO  webTest.Browserlaunch - Navigated to Google.
+2025-02-22 20:15:40 [main] INFO  webTest.Browserlaunch - Browser window maximized.
+2025-02-22 20:15:40 [main] INFO  webTest.Browserlaunch - Entered 'Selenium WebDriver' in search box.
+2025-02-22 20:15:40 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-22 20:15:43 [main] INFO  webTest.Browserlaunch - Page Title: https://www.google.com/search?q=Selenium+WebDriver&sca_esv=d5be2ea9143ccd98&source=hp&ei=E-O5Z_TPA63X1sQPuaK4-Ak&iflsig=ACkRmUkAAAAAZ7nxI5w8zcIxDVbrk9zFyUQVh9s3QSw7&sei=FOO5Z-7FMIvi2roP2_PggQc
+2025-02-22 20:15:44 [main] INFO  webTest.Browserlaunch - Browser closed.
