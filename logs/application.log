@@ -28,3 +28,366 @@
 2025-02-22 20:15:40 [main] INFO  webTest.Browserlaunch - Search submitted.
 2025-02-22 20:15:43 [main] INFO  webTest.Browserlaunch - Page Title: https://www.google.com/search?q=Selenium+WebDriver&sca_esv=d5be2ea9143ccd98&source=hp&ei=E-O5Z_TPA63X1sQPuaK4-Ak&iflsig=ACkRmUkAAAAAZ7nxI5w8zcIxDVbrk9zFyUQVh9s3QSw7&sei=FOO5Z-7FMIvi2roP2_PggQc
 2025-02-22 20:15:44 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 16:53:37 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 16:53:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 16:53:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 16:53:39 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 16:53:43 [main] INFO  webTest.Browserlaunch - Navigated to Google.
+2025-02-23 16:53:44 [main] INFO  webTest.Browserlaunch - Browser window maximized.
+2025-02-23 16:53:44 [main] INFO  webTest.Browserlaunch - Entered 'Selenium WebDriver' in search box.
+2025-02-23 16:53:44 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 16:53:47 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 16:57:30 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 16:57:30 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 16:57:30 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 16:57:31 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 16:57:35 [main] INFO  webTest.Browserlaunch - Navigated to Google.
+2025-02-23 16:57:35 [main] INFO  webTest.Browserlaunch - Browser window maximized.
+2025-02-23 16:57:35 [main] INFO  webTest.Browserlaunch - Entered 'Selenium WebDriver' in search box.
+2025-02-23 16:57:35 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 16:57:39 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 17:00:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:01:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:02:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:03:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:09:26 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 17:09:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 17:09:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 17:09:27 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 17:09:31 [main] INFO  webTest.Browserlaunch - Navigated to Google.
+2025-02-23 17:09:31 [main] INFO  webTest.Browserlaunch - Browser window maximized.
+2025-02-23 17:09:31 [main] INFO  webTest.Browserlaunch - Entered 'Selenium WebDriver' in search box.
+2025-02-23 17:09:31 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 17:09:34 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 17:09:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:11:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 17:18:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2025-02-23 17:18:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:18:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:19:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:21:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:22:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:22:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:23:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:24:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng/testng.xml
+
+2025-02-23 17:35:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:36:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:36:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:38:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/testng.xml
+
+2025-02-23 17:44:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:46:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:50:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:52:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2025-02-23 17:52:04 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 17:52:04 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 17:52:04 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 17:52:07 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 17:52:07 [main] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 17:52:11 [main] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 17:52:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:52:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:52:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:53:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:53:02 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 17:53:03 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 17:53:03 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 17:53:04 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 17:53:04 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 17:53:08 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 17:53:11 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 17:53:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:53:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:55:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:55:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:55:38 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 17:55:39 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 17:55:39 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 17:55:40 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 17:55:40 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 17:55:44 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 17:55:47 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 17:56:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:56:18 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 17:56:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 17:56:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 17:56:20 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 17:56:20 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 17:56:24 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 17:56:27 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 17:58:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 17:58:19 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 17:58:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 17:58:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 17:58:21 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 17:58:21 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 17:58:24 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 17:58:27 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:06:17 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:06:17 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:06:18 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:06:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 18:06:18 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 18:06:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:06:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:06:19 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:06:19 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:06:23 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:06:26 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:06:50 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:06:50 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:06:50 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:06:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 18:06:50 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 18:06:50 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:06:50 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:06:51 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:06:51 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:06:56 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:06:59 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:07:18 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:07:18 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:07:18 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:07:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 18:07:18 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 18:07:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:07:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:07:19 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:07:19 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:07:24 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:07:28 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:08:03 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:08:03 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:08:03 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:08:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 18:08:03 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 18:08:04 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:08:04 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:08:05 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:08:05 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:08:09 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:08:12 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:11:15 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:11:15 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:11:15 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:11:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/java/testng.xml
+
+2025-02-23 18:11:15 [main] INFO  webTest.Browserlaunch - Setting up Chrome WebDriver...
+2025-02-23 18:11:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:11:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:11:17 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:11:17 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:11:21 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:11:25 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:24:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:24:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:24:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:24:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:24:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:24:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:24:56 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:24:56 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:25:00 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:25:02 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:25:21 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:25:21 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:25:21 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:25:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:25:21 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:25:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:25:23 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:25:23 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:25:26 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:25:28 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:25:39 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:25:39 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:25:39 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:25:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:25:39 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:25:39 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:25:40 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:25:40 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:25:43 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:25:45 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:26:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:26:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:26:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:26:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:26:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:26:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:26:55 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:26:55 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:26:59 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:27:01 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:29:16 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:29:16 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:29:16 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:29:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:29:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:29:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:29:18 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:29:18 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:29:22 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:29:24 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:31:56 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:31:56 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:31:56 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:31:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:31:57 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:31:57 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:31:58 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:31:58 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:32:02 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:32:04 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:33:13 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:33:13 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:33:13 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:33:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:33:13 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:33:13 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:33:14 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:33:14 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:33:19 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:33:21 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:40:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:40:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:40:54 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:40:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:40:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:40:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:40:55 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:40:55 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:40:59 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:41:01 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:45:33 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:45:33 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:45:33 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:45:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:45:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:45:34 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:45:35 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:45:39 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:45:41 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:50:38 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:50:38 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:50:38 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:50:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:50:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:50:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:50:39 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:50:40 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:50:43 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:50:45 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:51:02 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:51:02 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:51:02 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:51:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/B0226036/IdeaProjects/Framework/src/test/testng.xml
+
+2025-02-23 18:51:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:51:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:51:04 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:51:04 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:51:08 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:51:11 [main] INFO  webTest.Browserlaunch - Browser closed.
+2025-02-23 18:51:34 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:51:34 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:51:34 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-02-23 18:51:35 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+2025-02-23 18:51:35 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/B0226036/.cache/selenium/chromedriver/mac-arm64/133.0.6943.126/chromedriver
+2025-02-23 18:51:36 [main] INFO  webTest.Browserlaunch - Chrome browser launched successfully.
+2025-02-23 18:51:36 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Navigating to Google...
+2025-02-23 18:51:40 [TestNG-test=Google Search Test-1] INFO  webTest.Browserlaunch - Search submitted.
+2025-02-23 18:51:42 [main] INFO  webTest.Browserlaunch - Browser closed.

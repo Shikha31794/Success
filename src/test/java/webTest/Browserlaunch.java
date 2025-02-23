@@ -1,5 +1,6 @@
 package webTest;
 
+import io.qameta.allure.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,50 +8,47 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.testng.Assert;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
 
 public class Browserlaunch {
-    // Use SLF4J Logger
+
     private static final Logger log = LoggerFactory.getLogger(Browserlaunch.class);
+    private WebDriver driver;
 
-    public static void main(String[] args) {
-        log.info("Setting up Chrome WebDriver...");
-
-        // Set up WebDriverManager for Chrome
+    @BeforeTest
+    @Step("Setting up the WebDriver and launching the browser")
+    public void setup() {
         WebDriverManager.chromedriver().setup();
-
-        // Initialize WebDriver
-        WebDriver driver = new ChromeDriver();
+        driver = new ChromeDriver();
         log.info("Chrome browser launched successfully.");
+    }
 
-        try {
-            // Open Google
-            driver.get("https://www.google.com");
-            log.info("Navigated to Google.");
+    @Test(description = "Google Search Test")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("Test to verify Google search functionality.")
+    @Epic("EP001")
+    @Feature("Feature: Google Search")
+    @Story("Story: User searches in Google")
+    public void googleSearchTest() {
+        log.info("Navigating to Google...");
+        driver.get("https://www.google.com");
+        driver.manage().window().maximize();
 
-            // Maximize the window
-            driver.manage().window().maximize();
-            log.info("Browser window maximized.");
+        WebElement searchBox = driver.findElement(By.name("q"));
+        searchBox.sendKeys("Selenium WebDriver");
+        searchBox.submit();
+        log.info("Search submitted.");
 
-            // Find the search box and enter a query
-            WebElement searchBox = driver.findElement(By.name("q"));
-            searchBox.sendKeys("Selenium WebDriver");
-            log.info("Entered 'Selenium WebDriver' in search box.");
+        Assert.assertTrue(driver.getTitle().contains("Selenium WebDriver"));
+    }
 
-            // Submit the search
-            searchBox.submit();
-            log.info("Search submitted.");
-
-            // Wait for results to load (basic sleep for demo; use WebDriverWait in real cases)
-            Thread.sleep(3000);
-
-            // Print page title
-            String pageTitle = driver.getTitle();
-            log.info("Page Title: {}", pageTitle);
-
-        } catch (Exception e) {
-            log.error("An error occurred: ", e);
-        } finally {
-            // Close browser
+    @AfterTest
+    @Step("Closing the browser")
+    public void teardown() {
+        if (driver != null) {
             driver.quit();
             log.info("Browser closed.");
         }
